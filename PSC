@@ -1,0 +1,13 @@
+<div id="position-size-calculator-494953">
+<script type="text/javascript"  src="https://www.cashbackforex.com/Content/remote/remote-widgets.js">
+</script><script type="text/javascript"> 
+RemoteCalc({"Url":"https://www.cashbackforex.com", 
+"TopPaneStyle":"YmFja2dyb3VuZDogbGluZWFyLWdyYWRpZW50KCMzNDM1NDAgMCUsICMyNDI4MzEgMTAwJSk7CmNvbG9yOiB3aGl0ZTsKYm9yZGVyOiBub25lOwo=",
+"BottomPaneStyle":"YmFja2dyb3VuZDogIzE1MTgxZDsKYm9yZGVyOiBzb2xpZCAxcHggIzJhMmUzOTsKY29sb3I6ICM5MTk0YTE7Cg==","ButtonStyle":
+"YmFja2dyb3VuZDogIzM0MzU0MDsgY29sb3I6IHdoaXRlOyBib3JkZXItcmFkaXVzOiAyMHB4Ow==","TitleStyle":
+"dGV4dC1hbGlnbjogbGVmdDsgZm9udC1zaXplOiAxNnB4OyBmb250LXdlaWdodDogNTAwOw==",
+"TextboxStyle":"YmFja2dyb3VuZC1jb2xvcjogZ3JheTsgY29sb3I6IHdoaXRlOyBib3JkZXI6IHNvbGlkIDFweCAjMmEyZTM5Ow==",
+"ContainerWidth":"250","HighlightColor":"#ffff00","IsDisplayTitle":false,"IsShowChartLinks":false,"IsShowEmbedButton":false,"CompactType":
+"small","Calculator":"position-size-calculator","ContainerId":"position-size-calculator-494953"})
+;</script>
+</div>
